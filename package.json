@@ -1,0 +1,22 @@
+{
+  "name": "urlShortener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/typescript": "^2.0.0",
+    "mongoose": "^5.12.5",
+    "nanoid": "^3.1.22",
+    "typescript": "^4.2.4",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "@types/valid-url": "^1.0.3"
+  }
+}
